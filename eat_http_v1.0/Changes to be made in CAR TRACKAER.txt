@@ -1,0 +1,21 @@
+1. Display of working accelerometer. SMS based, after getting sms wait for 5 sec and then reply over sms.
+
+2. When Device comes out from sleep it is turning on its gps. Turn on the gps based on that whether motion is sensed or not.
+
+3. OTA firmware upgradation.
+
+4. Odometer
+
+5. Distance Base Tracking 
+
+6. Angle Based Tracking
+
+7. Protocol
+
+8. Serial port config.
+
+9. GPRS commanding
+
+10. By Default debugging disabled
+
+
